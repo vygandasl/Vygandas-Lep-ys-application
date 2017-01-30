@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
+
+h2{
+  font-family: 'Roboto', sans-serif;
+}
+.table-responsive{
+width: 100%;
+}
+.mgt1{
+  white-space: normal;
+  width: 80px;
+}
+@media only screen and (max-width: 1136px) and (min-width: 372px){
+  .btn-group {
+    display: inline-flex;
+  }
+}
+
+@media only screen and (max-width: 478px) and (min-width: 372px){
+  .table1, .table2 {
+    clear: left;
+    width: 95%;
+  }
+}
