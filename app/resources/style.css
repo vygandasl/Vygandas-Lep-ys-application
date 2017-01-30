@@ -16,7 +16,7 @@ width: 100%;
   }
 }
 
-@media only screen and (max-width: 478px) and (min-width: 372px){
+@media only screen and (max-width: 478px) and (min-width: 334px){
   .table1, .table2 {
     clear: left;
     width: 95%;
