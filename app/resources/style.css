@@ -10,7 +10,7 @@ width: 100%;
   white-space: normal;
   width: 80px;
 }
-@media only screen and (max-width: 1136px) and (min-width: 372px){
+@media only screen and (max-width: 1136px) and (min-width: 335px){
   .btn-group {
     display: inline-flex;
   }
